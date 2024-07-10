@@ -1,0 +1,16 @@
+C:\Kavi\College\Programs\VB programs\BAtest\BAtest\bin\Debug\BAtest.exe.config
+C:\Kavi\College\Programs\VB programs\BAtest\BAtest\bin\Debug\BAtest.exe
+C:\Kavi\College\Programs\VB programs\BAtest\BAtest\bin\Debug\BAtest.pdb
+C:\Kavi\College\Programs\VB programs\BAtest\BAtest\obj\Debug\BAtest.csproj.AssemblyReference.cache
+C:\Kavi\College\Programs\VB programs\BAtest\BAtest\obj\Debug\BAtest.Properties.Resources.resources
+C:\Kavi\College\Programs\VB programs\BAtest\BAtest\obj\Debug\BAtest.csproj.GenerateResource.cache
+C:\Kavi\College\Programs\VB programs\BAtest\BAtest\obj\Debug\BAtest.csproj.CoreCompileInputs.cache
+C:\Kavi\College\Programs\VB programs\BAtest\BAtest\obj\Debug\BAtest.exe
+C:\Kavi\College\Programs\VB programs\BAtest\BAtest\obj\Debug\BAtest.pdb
+C:\Kavi\College\Programs\VB programs\BAtest\BAtest\bin\Debug\All Dept.accdb
+C:\Kavi\College\Programs\VB programs\BAtest\BAtest\obj\Debug\BAtest.DataEntry.resources
+C:\Kavi\College\Programs\VB programs\BAtest\BAtest\obj\Debug\BAtest.printpdf.resources
+C:\Kavi\College\Programs\VB programs\BAtest\BAtest\obj\Debug\BAtest.Report.resources
+C:\Kavi\College\Programs\VB programs\BAtest\BAtest\obj\Debug\BAtest.Login.resources
+C:\Kavi\College\Programs\VB programs\BAtest\BAtest\obj\Debug\BAtest.MainForm.resources
+C:\Kavi\College\Programs\VB programs\BAtest\BAtest\obj\Debug\BAtest.regenerate.resources
